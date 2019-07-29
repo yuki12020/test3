@@ -7,8 +7,7 @@
 <br>（引数に取得したい５ちゃんのURLを入力）
 <br>データベースにコメントやタイトルを保存する
 
-（１）
-perlのクローラーにより<br>
+<br>perlのクローラーにより<br>
 https://asahi.5ch.net/newsplus/<br>
 の５ちゃん掲示板のスレッドのコメントやタイトルを取得<br>
 データベースに保存
@@ -20,9 +19,9 @@ https://asahi.5ch.net/newsplus/<br>
 これはデーターベースインサート時に特殊文字が頻発するアスキーアートをエスケープしきれない為である。
 <br>
 
-<hr>
 <br>
-<br>marbleフォルダ内
+<hr>
+<br>marbleフォルダ内<br>
 <b>やる事<b><br>
 (2)perlで取得したデータを見せる用の画面で表示
   <br>データベースにコメントやタイトルをセレクトしまとめサイトの用に出力
@@ -32,8 +31,8 @@ https://asahi.5ch.net/newsplus/<br>
   
 ![result2](https://github.com/yuki12020/images/blob/master/view.gif)
  
-<hr>
 <br>
+<hr>
 <br>adminフォルダ内
 <b>やる事<b><br>
 (3)perlで取得したデータを見せる用の画面で表示
