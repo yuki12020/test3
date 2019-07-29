@@ -41,7 +41,7 @@ https://asahi.5ch.net/newsplus/<br>
   <br>bootstrapのlightを改良し出力<br>
   light url: https://www.creative-tim.com/product/light-bootstrap-dashboard<br>
   <br>
-  (2)と異なり、こちらはadminフォルダ内でslimというフレームワークを使用している
+  (2)と異なり、こちらはadminフォルダ内でslimというフレームワークを使用し、lightとslimを融合している<br>
   slim url::  http://www.slimframework.com/
   
 ![result2](https://github.com/yuki12020/images/blob/master/dash.gif)
