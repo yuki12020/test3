@@ -28,3 +28,14 @@ https://asahi.5ch.net/newsplus/<br>
   
 ![result2](https://github.com/yuki12020/images/blob/master/view.gif)
   
+<b>やる事<b><br>
+(3)perlで取得したデータを見せる用の画面で表示
+  <br>データベースにコメントやタイトルをセレクトしまとめサイトの用に出力
+  <br>データベースのデータを更新、削除、リスト付けしている
+  <br>bootstrapのlightを改良し出力<br>
+  light url: https://www.creative-tim.com/product/light-bootstrap-dashboard<br>
+  <br>
+  (2)と異なり、こちらはadminフォルダ内でslimというフレームワークを使用している
+  slim url::  http://www.slimframework.com/
+  
+![result2](https://github.com/yuki12020/images/blob/master/dash.gif)
