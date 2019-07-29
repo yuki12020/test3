@@ -17,3 +17,11 @@ https://asahi.5ch.net/newsplus/<br>
 <br>
 これはデーターベースインサート時に特殊文字が頻発するアスキーアートをエスケープしきれない為である。
 <br>
+
+
+<b>やる事<b><br>
+(2)取得したデータを見せる用の画面で表示
+  <br>データベースにコメントやタイトルをセレクトしまとめサイトの用に出力
+  <br>bootstrapのmarbleを改良し出力
+  <br>https://demos.freehtml5.co/marble/<br>
+  ![result](https://github.com/yuki12020/images/blob/master/view.gif)
