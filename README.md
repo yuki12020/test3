@@ -24,5 +24,5 @@ https://asahi.5ch.net/newsplus/<br>
   <br>データベースにコメントやタイトルをセレクトしまとめサイトの用に出力
   <br>bootstrapのmarbleを改良し出力
   <br>https://demos.freehtml5.co/marble/<br>
-  ![result](https://github.com/yuki12020/images/blob/master/view.gif)
+![result2](https://github.com/yuki12020/images/blob/master/view.gif)
   
